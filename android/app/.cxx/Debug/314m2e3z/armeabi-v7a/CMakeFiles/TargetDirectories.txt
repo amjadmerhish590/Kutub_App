@@ -1,0 +1,2 @@
+C:/Users/Amjad/StudioProjects/Bookly_App/android/app/.cxx/Debug/314m2e3z/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Amjad/StudioProjects/Bookly_App/android/app/.cxx/Debug/314m2e3z/armeabi-v7a/CMakeFiles/rebuild_cache.dir
